@@ -1,0 +1,32 @@
+body {
+    background-color: #cde;
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, sans-serif;
+}
+.container{
+    width: 100%;
+    padding: 20px;
+    box-sizing:border-box;
+}
+h1{
+    text-align: center;
+}    
+.redtext{
+    color:red;
+}
+.bluetext{
+    color:blue;
+}
+.greentext{  
+    color: green;
+}  
+.purpletext{
+    color: purple;
+}
+.center{
+    text-align:center;
+}
+.logo{
+    margin-right: 20px;
+}
